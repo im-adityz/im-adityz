@@ -2,7 +2,6 @@
 
 - 🏫 MNIT Jaipur'29
 - 💻 Learning DSA & Web Dev (MERN)
-- 📫 Reach me: adikr2421@gmail.com
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-adityz&show_icons=true&theme=radical)
 
