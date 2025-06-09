@@ -2,9 +2,9 @@
 
 - 🏫 MNIT Jaipur'29
 - 💻 Learning DSA & Web Dev (MERN)
-
+<!--
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-adityz&show_icons=true&theme=radical)
-
+-->
 <!--
 **im-adityz/im-adityz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
