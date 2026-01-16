@@ -1,6 +1,6 @@
 # Hi, I'm Adityz
-Pursuing Engineering at MNIT Jaipur 
-Exploring Stuff Out
+- Pursuing Engineering at MNIT Jaipur.
+- Exploring Stuff Out.
 <!--
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-adityz&show_icons=true&theme=radical)
 -->
